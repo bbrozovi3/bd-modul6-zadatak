@@ -1,6 +1,6 @@
 {
-    "name": "bb-github/test-001",
-    "description": "Testiranje Github Actions CI sustava",
+    "name": "bb-github/zadatak",
+    "description": "Zadatak",
     "license": "MIT",
     "require": {
         "php" : ">=7.3"
